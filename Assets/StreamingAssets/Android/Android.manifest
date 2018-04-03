@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 73262853
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: huo.prefab.bytes
+      Dependencies:
+        Dependency_0: yanhua.mat.bytes
+    Info_1:
+      Name: yanhua.mat.bytes
+      Dependencies:
+        Dependency_0: yanhuaimg.png.bytes
+    Info_2:
+      Name: loading.unity.bytes
+      Dependencies: {}
+    Info_3:
+      Name: main.unity.bytes
+      Dependencies:
+        Dependency_0: huo.prefab.bytes
+    Info_4:
+      Name: text.unity.bytes
+      Dependencies: {}
+    Info_5:
+      Name: audio.wav.bytes
+      Dependencies: {}
+    Info_6:
+      Name: yanhuaimg.png.bytes
+      Dependencies: {}

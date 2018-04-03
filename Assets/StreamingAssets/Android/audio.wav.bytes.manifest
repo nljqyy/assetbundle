@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 231296185
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7f0681e611bcad749dd91c5c0e53bbf0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/NeedExportRes/Sounds/audio.wav
+Dependencies: []

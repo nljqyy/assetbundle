@@ -1,0 +1,15 @@
+ManifestFileVersion: 0
+CRC: 608605792
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bb03db9a1b49bbe8072349c5c09e0dac
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/NeedExportRes/Scens/Main.unity
+Dependencies:
+- E:/Unity_Project/Unity_Project/MyAssetBundle/Assets/StreamingAssets/Android/huo.prefab.bytes
